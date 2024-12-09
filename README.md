@@ -69,17 +69,21 @@ Neste desafio, aprendi:
 
 
 📬 Contato
+
 Gostou do projeto? Entre em contato comigo:
 
-E-mail: fabioggoulart17@gmail.com
+E-mail: [fabioggoulart17@gmail.com](mailto:fabioggoulart17@gmail.com)
 
-GitHub: FabioGoulart17
+GitHub: [FabioGoulart17](https://github.com/FabioGoulart17)
+
 
 
 ⭐ Contribua
+
 Se você quiser sugerir melhorias ou contribuir para este projeto, fique à vontade para abrir uma issue ou enviar um pull request.
 
 🔗 Desafio no Frontend Mentor
+
 Este projeto foi baseado no desafio QR Code Component.
 
 Feito com ❤️ por Fábio Goulart.
