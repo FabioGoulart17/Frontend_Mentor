@@ -54,7 +54,7 @@ Neste desafio, aprendi:
 
 
 📂 Estrutura do Projeto
-
+```
 /FRONTEND_MENTOR
 ├── .vscode/               # Configurações específicas do VS Code
 ├── images/                # Pasta contendo as imagens do projeto
@@ -64,7 +64,7 @@ Neste desafio, aprendi:
 ├── reset.css              # Arquivo de reset CSS para consistência entre navegadores
 ├── style-guide.md         # Guia de estilo ou diretrizes para o projeto
 └── style.css              # Arquivo CSS principal do projeto
-
+```
 
 
 
@@ -87,5 +87,3 @@ Se você quiser sugerir melhorias ou contribuir para este projeto, fique à vont
 Este projeto foi baseado no desafio QR Code Component.
 
 Feito com ❤️ por Fábio Goulart.
-
-
